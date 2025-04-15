@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35728.132 d17.12
+VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_APIDemo", "NetCoreAI.Project01_APIDemo\NetCoreAI.Project01_APIDemo.csproj", "{56CFD42E-E256-4DF4-83A5-3E6EE2C6BAC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project02_APIConsumeUI", "NetCoreAI.Project02_APIConsumeUI\NetCoreAI.Project02_APIConsumeUI.csproj", "{1D27A23A-C4A6-43D6-8B72-4E846579ED8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project03_RapidAPI", "NetCoreAI.Project03_RapidAPI\NetCoreAI.Project03_RapidAPI.csproj", "{2115FBB1-D2B8-4D3A-9DC9-A4D83CC543F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1D27A23A-C4A6-43D6-8B72-4E846579ED8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D27A23A-C4A6-43D6-8B72-4E846579ED8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D27A23A-C4A6-43D6-8B72-4E846579ED8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2115FBB1-D2B8-4D3A-9DC9-A4D83CC543F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2115FBB1-D2B8-4D3A-9DC9-A4D83CC543F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2115FBB1-D2B8-4D3A-9DC9-A4D83CC543F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2115FBB1-D2B8-4D3A-9DC9-A4D83CC543F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
