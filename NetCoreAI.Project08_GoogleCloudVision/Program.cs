@@ -8,7 +8,7 @@ class Program
 		string imagePath = Console.ReadLine(); 
 		Console.WriteLine();
 
-		string credentialPath = @"C:\Users\EdaGunes\OneDrive\Masaüstü\tastyapi-447622-d6ab8b4e3062.json"; // Google Cloud projesine ait servis hesabı JSON dosyasının yolu (kimlik doğrulama için gerekli)
+		string credentialPath = "jsondosyayolu"; // Google Cloud projesine ait servis hesabı JSON dosyasının yolu (kimlik doğrulama için gerekli)
 
 		// JSON dosyası üzerinden kimlik doğrulama yapabilmek için ortam değişkeni ayarlanır
 		Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credentialPath); // Google Vision API'ye bu kimlik ile başvurulur
