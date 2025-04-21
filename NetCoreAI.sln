@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project14_Article
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project15_WebScrapingWithOpenAIApi", "NetCoreAI.Project15_WebScrapingWithOpenAIApi\NetCoreAI.Project15_WebScrapingWithOpenAIApi.csproj", "{A19834AE-90D9-40B2-BBEA-2460E9EAD05C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project16_PdfAnalyzeWithOpenAI", "NetCoreAI.Project16_PdfAnalyzeWithOpenAI\NetCoreAI.Project16_PdfAnalyzeWithOpenAI.csproj", "{BCD6CFB8-808A-46F3-A14A-1BFB78D4169E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A19834AE-90D9-40B2-BBEA-2460E9EAD05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19834AE-90D9-40B2-BBEA-2460E9EAD05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19834AE-90D9-40B2-BBEA-2460E9EAD05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD6CFB8-808A-46F3-A14A-1BFB78D4169E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD6CFB8-808A-46F3-A14A-1BFB78D4169E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD6CFB8-808A-46F3-A14A-1BFB78D4169E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD6CFB8-808A-46F3-A14A-1BFB78D4169E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
